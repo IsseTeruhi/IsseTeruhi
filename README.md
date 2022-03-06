@@ -9,7 +9,7 @@
 
 - 🔭 I made [Daigomi](https://github.com/IsseTeruhi/DAIGOMI) (private Repositry)
 
-- 🔭 I made [school chat](https://github.com/IsseTeruhi/chat.github.io) 
+- 🔭 I made [school chat]() 
 
 - 📫 How to reach me **isseteruterubouzu@yahoo.co.jp**
 
