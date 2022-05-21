@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **isseteruterubouzu@yahoo.co.jp**
 
-- ⚡ Fun fact **Genshin Impact**
+- ⚡ Fun fact **Atcorder**(https://atcoder.jp/users/teruterubouzu)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
