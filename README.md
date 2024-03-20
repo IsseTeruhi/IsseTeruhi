@@ -3,17 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isseteruhi&label=Profile%20views&color=0e75b6&style=flat" alt="isseteruhi" /> </p>
 
-- 🔭 I made [Nerukowa](https://github.com/IsseTeruhi/nerukowa) (private Repositry)
 
-- 🌱 I’m currently learning **Flutter,Python**
-
-- 🔭 I made [Daigomi](https://github.com/IsseTeruhi/DAIGOMI) (private Repositry)
-
-- 🔭 I made [school chat](https://github.com/IsseTeruhi/chatdemoapp) (private Repositry)
-
-- 📫 How to reach me **isseteruterubouzu@yahoo.co.jp**
-
-- ⚡ Fun fact [Atcorder](https://atcoder.jp/users/teruterubouzu)
 
 
 <h2>Langages and Tools</h2>
